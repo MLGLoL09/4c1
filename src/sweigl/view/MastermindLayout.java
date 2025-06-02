@@ -11,5 +11,6 @@ public class MastermindLayout {
       
         frame.add(panel);
         frame.setVisible(true);
+
     }
 }
